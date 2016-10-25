@@ -104,6 +104,9 @@ nnoremap <leader>" viw<esc>a"<esc>hbi"<esc>lel
 nnoremap <leader>' viw<esc>a'<esc>hbi'<esc>lel
 nnoremap <leader>; mqA;<esc>`q
 nnoremap <leader>d "_d
+nnoremap <leader>D "_D
+nnoremap <leader>c "_c
+nnoremap <leader>C "_C
 nnoremap <Space> i_<Esc>r
 "nnoremap <cr> i<cr><esc>
 autocmd FileType java nnoremap <buffer> <leader>c I//<esc>
